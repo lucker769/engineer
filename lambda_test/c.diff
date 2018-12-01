@@ -1,9 +1,0 @@
-diff --git a/lambda_test/src/main/java/com/lucker769/test/aaa.txt b/lambda_test/src/main/java/com/lucker769/test/aaa.txt
-index 93a5f6ac75b85c94cb688a30953fa720dcaa7604..aef4bf31fc1815e848f8577a38c04883bd45b7f2 100644
---- a/lambda_test/src/main/java/com/lucker769/test/aaa.txt
-+++ b/lambda_test/src/main/java/com/lucker769/test/aaa.txt
-@@ -1 +1 @@
--123123
-\ No newline at end of file
-+123123123123
-\ No newline at end of file
