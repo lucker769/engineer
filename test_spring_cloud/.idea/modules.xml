@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/eureka_test/config-client/config-client.iml" filepath="$PROJECT_DIR$/eureka_test/config-client/config-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka_test/config-server/config-server.iml" filepath="$PROJECT_DIR$/eureka_test/config-server/config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka_test/eureka_client/eureka_client.iml" filepath="$PROJECT_DIR$/eureka_test/eureka_client/eureka_client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka_test/eureka_server/eureka_server.iml" filepath="$PROJECT_DIR$/eureka_test/eureka_server/eureka_server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka_test/eureka_test.iml" filepath="$PROJECT_DIR$/eureka_test/eureka_test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka_test/serice-feign/serice-feign.iml" filepath="$PROJECT_DIR$/eureka_test/serice-feign/serice-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka_test/server-zipkin/server-zipkin.iml" filepath="$PROJECT_DIR$/eureka_test/server-zipkin/server-zipkin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka_test/service-hi/service-hi.iml" filepath="$PROJECT_DIR$/eureka_test/service-hi/service-hi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka_test/service-miya/service-miya.iml" filepath="$PROJECT_DIR$/eureka_test/service-miya/service-miya.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka_test/service-ribbon/service-ribbon.iml" filepath="$PROJECT_DIR$/eureka_test/service-ribbon/service-ribbon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka_test/service-zuul/service-zuul.iml" filepath="$PROJECT_DIR$/eureka_test/service-zuul/service-zuul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/test_spring_cloud.iml" filepath="$PROJECT_DIR$/.idea/test_spring_cloud.iml" />
+    </modules>
+  </component>
+</project>
