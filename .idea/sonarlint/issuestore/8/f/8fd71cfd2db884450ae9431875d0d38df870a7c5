@@ -1,0 +1,20 @@
+
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÿƒÀôÿÿÿÿÿ
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÛÚƒ üÿÿÿÿ
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(íŒÛð
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(öªÑî
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Öø°–
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ºê’Ó
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ô­Ô¸þÿÿÿÿ
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(º³üä
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(Õù¿çúÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(Â¦§Àùÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(’ƒåÈþÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÐÔ¸±
+Bsquid:S1481"(Remove this unused "atp" local variable.(Ô–É™þÿÿÿÿ
+Qsquid:S1854"7Remove this useless assignment to local variable "atp".(Ô–É™þÿÿÿÿ
+Isquid:S1611"/Remove the parentheses around the "x" parameter(¢Ã¥›þÿÿÿÿ

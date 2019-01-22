@@ -1,0 +1,86 @@
+
+@squid:S1659"&Declare "lastName" on a separate line.(Âõ“Êÿÿÿÿÿ
+;squid:S1659"!Declare "job" on a separate line.(Âõ“Êÿÿÿÿÿ
+>squid:S1659"$Declare "gender" on a separate line.(Âõ“Êÿÿÿÿÿ
+;squid:S1659"!Declare "age" on a separate line.(­½ŸËûÿÿÿÿ
+]squid:S1192"HDefine a constant instead of duplicating this literal "%s %s; " 7 times.(Å»Ì¶
+csquid:S1192"ODefine a constant instead of duplicating this literal "PHP programmer" 4 times.(ñÜ¡Q
+asquid:S1192"GDefine a constant instead of duplicating this literal "female" 4 times.(×˜ó‘ùÿÿÿÿ
+jsquid:S1192"PDefine a constant instead of duplicating this literal "Java programmer" 3 times.(¾ÖÛğùÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(íÄÉŸ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(Å»Ì¶
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(ñĞƒ‰
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(„«Ğ§şÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(€ï“
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ğ‡¸æüÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(‹ÿÂÅüÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ğ‡¸æüÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ğ‡†¶ûÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ğ‡¸æüÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(×¥»—ıÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ğ‡¸æüÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÒÈßùÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ğ‡¸æüÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(§³šøÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÜêöŸ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(´òÕ‘
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÜêöŸ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(áË¶ƒ
+L
+squid:S106"9Replace this use of System.out or System.err by a logger.(¹É¨
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(Æ­µÌ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(‘’³Óúÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(Œ±œÈüÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(€„–
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÊİÊ°ùÿÿÿÿ
+|squid:S1488"gImmediately return this expression instead of assigning it to the temporary variable "javaProgrammers".(ú¥¿‚
+€squid:S1488"fImmediately return this expression instead of assigning it to the temporary variable "phpProgrammers".(²üîËùÿÿÿÿ
+Gsquid:S1481"2Remove this unused "phpDevelopers" local variable.(ßã
+Jsquid:S1481"5Remove this unused "javaDevFirstName" local variable.(Ê×†Û
+Nsquid:S1481"4Remove this unused "javaDevLastName" local variable.(ª¿Õúÿÿÿÿ
+Lsquid:S3655"7Call "Optional#isPresent()" before accessing the value.(áß©Ù
+Lsquid:S3655"7Call "Optional#isPresent()" before accessing the value.(œÈÓµ
+ssquid:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ
+ssquid:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ
+]squid:S1854"CRemove this useless assignment to local variable "javaDevLastName".(ª¿Õúÿÿÿÿ
+Ysquid:S1854"DRemove this useless assignment to local variable "javaDevFirstName".(Ê×†Û
+Vsquid:S1854"ARemove this useless assignment to local variable "phpDevelopers".(ßã
+Dsquid:S1611"/Remove the parentheses around the "p" parameter(Å»Ì¶
+Dsquid:S1611"/Remove the parentheses around the "p" parameter(ñĞƒ‰
+Isquid:S1611"/Remove the parentheses around the "p" parameter(úíÌ ÿÿÿÿÿ
+Isquid:S1611"/Remove the parentheses around the "p" parameter(Ğ‡¸æüÿÿÿÿ
+Csquid:S1611"/Remove the parentheses around the "p" parameter(šñ
+Isquid:S1611"/Remove the parentheses around the "p" parameter(Œö øÿÿÿÿ
+Isquid:S1611"/Remove the parentheses around the "p" parameter(×˜ó‘ùÿÿÿÿ
+Isquid:S1611"/Remove the parentheses around the "p" parameter(Ğ‡¸æüÿÿÿÿ
+Isquid:S1611"/Remove the parentheses around the "p" parameter(Ğ‡¸æüÿÿÿÿ
+Isquid:S1611"/Remove the parentheses around the "p" parameter(Ğ‡¸æüÿÿÿÿ
+Isquid:S1611"/Remove the parentheses around the "p" parameter(Ğ‡¸æüÿÿÿÿ
+Dsquid:S1611"/Remove the parentheses around the "p" parameter(ÜêöŸ
+Dsquid:S1611"/Remove the parentheses around the "p" parameter(ÜêöŸ
+Asquid:S3599",Use another way to initialize this instance.(ú¥¿‚
+Fsquid:S3599",Use another way to initialize this instance.(²üîËùÿÿÿÿ
