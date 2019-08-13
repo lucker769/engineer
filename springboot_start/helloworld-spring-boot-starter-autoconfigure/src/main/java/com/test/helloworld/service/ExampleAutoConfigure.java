@@ -10,7 +10,7 @@ import org.springframework.context.annotation.Configuration;
 
 /**
  * @description:
- * @author: zhiyun.yu
+ * @author: lucker769
  * @create: 2019-01-21 17:54
  **/
 @Configuration

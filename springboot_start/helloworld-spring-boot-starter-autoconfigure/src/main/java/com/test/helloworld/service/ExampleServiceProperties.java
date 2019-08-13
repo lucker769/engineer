@@ -4,7 +4,7 @@ import org.springframework.boot.context.properties.ConfigurationProperties;
 
 /**
  * @description:
- * @author: zhiyun.yu
+ * @author: lucker769
  * @create: 2019-01-21 17:52
  **/
 @ConfigurationProperties("example.service")

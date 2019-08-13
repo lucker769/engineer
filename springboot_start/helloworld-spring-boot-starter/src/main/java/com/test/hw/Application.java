@@ -8,8 +8,10 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 /**
- * @description: https://juejin.im/entry/58d37630570c350058c2c15c
- * @author: zhiyun.yu
+ * @description:
+ *  方法调用型starter: https://juejin.im/entry/58d37630570c350058c2c15c
+ *  注解型starter：https://fangjian0423.github.io/2016/11/16/springboot-custom-starter/
+ * @author: lucker769
  * @create: 2019-01-21 18:07
  **/
 @SpringBootApplication
